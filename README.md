@@ -15,7 +15,7 @@
 - 🌐 **全版本兼容** - 支持 Minecraft 1.8+ 至最新版本
 
 ## 📦 安装
-1. 下载最新版本 [Reload.jar](https://github.com/yourusername/reload/releases)
+1. 下载最新版本 [Reload.jar](https://github.com/yangzijian/reload/releases)
 2. 放入服务器 `plugins/` 目录
 3. 重启服务器
 
