@@ -45,12 +45,13 @@ reload.command:
   default: op # 默认仅OP可用
 ```
 ## 🛠️ 开发构建
-
+```yaml
 # 克隆仓库
 git clone https://github.com/yourusername/reload.git
 
 # 构建插件
 mvn clean package
+```
 
 ## ❓ 常见问题
 Q：配置文件没有自动生成怎么办？
