@@ -46,8 +46,7 @@ reload.command:
 ```
 ## 🛠️ 开发构建
 ```yaml
-# 克隆仓库
-git clone https://github.com/yangzijian/reload.git
+#下载源代码
 
 # 构建插件
 mvn clean package
