@@ -15,7 +15,7 @@
 - 🌐 **全版本兼容** - 支持 Minecraft 1.8+ 至最新版本
 
 ## 📦 安装
-1. 下载最新版本 [Reload.jar](https://github.com/yangzijian/reload/releases)
+1. 下载最新版本 [Reload.jar](https://github.com/yangzijian52/reload/releases/tag/reload)
 2. 放入服务器 `plugins/` 目录
 3. 重启服务器
 
@@ -47,7 +47,7 @@ reload.command:
 ## 🛠️ 开发构建
 ```yaml
 # 克隆仓库
-git clone https://github.com/yourusername/reload.git
+git clone https://github.com/yangzijian/reload.git
 
 # 构建插件
 mvn clean package
