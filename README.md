@@ -37,6 +37,11 @@ commands:
 命令	权限节点	描述
 /ro config	reload.command	重载配置文件
 
+## 📜 命令列表 
+| 命令 |权限节点	      |   描述 |
+|------|------------|--------|
+| /ro config | reload.command   |   重载配置文件   |
+
 ## 🔑 权限系统
 ```yaml
 # 默认权限配置
