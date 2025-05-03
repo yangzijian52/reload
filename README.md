@@ -29,8 +29,6 @@ interval: 60
 要执行的命令列表（按顺序执行）
 commands:
   - say 服务器正常运行中
-  - save-all
-  - dynmap renderall
 ```  
 
 ## 📜 命令列表
@@ -78,5 +76,3 @@ A：在配置文件中避免使用 stop/reload 等危险指令
 
 ---
 
-**Star ⭐ 本项目以获取最新更新！**  
-[报告问题](https://github.com/yourusername/reload/issues) | [功能请求](https://github.com/yourusername/reload/discussions)
