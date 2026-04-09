@@ -19,12 +19,13 @@
 
 ## 说明
 
-- 截至 `2026-04-09`，PaperMC Maven 中 `paper-api` 的 `latest` 和 `release` 仍指向 `26.1.1.build.20-alpha`
+- 截至 `2026-04-09`，PaperMC Maven 中 `paper-api` 的 `latest` 和 `release` 已更新为 `26.1.1.build.29-alpha`
+- 当前项目仍保持在已实测通过的 `26.1.1.build.20-alpha`
 - 当前已经完成本地构建验证
-- 当前还没有完成服内功能测试，因此暂时不能标记为正式可用
+- 当前已经完成 `Paper 26.1` 服内测试，运行正常
 
-## 验证建议
+## 验证记录
 
 1. 使用 `Java 25` 运行 `mvn clean package`
 2. 在 `Paper 26.1` 服务端测试定时命令执行
-3. 测试 `/ro config` 是否能正确重载配置
+3. 测试 `/ro config` 可以正确重载配置
