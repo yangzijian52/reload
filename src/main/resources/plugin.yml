@@ -1,5 +1,5 @@
 name: Reload
-version: 1.0
+version: ${project.version}
 main: com.example.reload.ReloadPlugin
 api-version: 1.21
 commands:
@@ -7,4 +7,4 @@ commands:
     description: 重载插件配置
     usage: /ro config
     permission: reload.command
-    permission-message: "§c你没有权限使用此命令！"
+    permission-message: "§c你没有权限使用此命令。"
