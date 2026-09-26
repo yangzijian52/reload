@@ -6,7 +6,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>Reload</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>26.2.build.56-alpha</version>
+            <version>26.3.build.41-alpha</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
